@@ -28,6 +28,3 @@ Det är tillåtet att använda exakt samma text och samma formgivning som i dett
 
 ## Samarbete
 Denna inlämningsuppgift ska utföras och lämnas in i par.
-
-## Betygsättning
-Möjliga betyg: G och IG.
