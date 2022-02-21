@@ -6,7 +6,7 @@
 }
 
 html {
-    background-image: "C:\Teknikhögskolan\Frontend\PixabayRemake\images\jay-mantri-TFyi0QOx08c-unsplash(white_overlay).jpg";
+    background-image: url('../images/jay-mantri-TFyi0QOx08c-unsplash(white_overlay).jpg');
     background-size: cover;
     background-attachment: fixed;
     line-height: 1.25;
